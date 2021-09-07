@@ -1,0 +1,37 @@
+DEFEND
+ENDURE
+POWER
+SPEED
+TALK
+ATTACK
+CAPACITY
+ALL ATTRIBUTES MAX AT 7
+--------------------------
+HP- (10*E)+D
+AP- (10*S)
+----------------------------
+MAX CARGO- (10*c)+S
+----------------------------
+PHYSICAL ATTACK - (d6+E)*A -5 AP
+ENERGY ATTACK - (d6+P)*A -10 AP
+----------------------------
+PHYSICAL SHIELD- (d6+E)*D
+ENERGY SHIELD- (d6+P)*D
+----------------------------
+Attack chance- when traveling d20-S if <10 attack occurs, Roll a d20 to determine attack type.
+ATTACK TYPES
+if<10 Enemy only has physical attack, and physical shield. D2 E2 P2 S2 T2 A2 C2
+if >10 Enemy has Physical+ Energy attack, only physical shield DEPSTAC D3 E3 P3 S3 T3 A3 C3
+if >10 Enemy has Physical + Energy attack, Physical shield and Energy shield. D4 E4 P4 S4 T4 A4 C4
+if =20 Enemy has Physical + Energy attack, Physical and Energy shield. D5 E5 P5 S5 T5 A5 C5
+-----------------------------
+If enemy wins encounter you lose all cargo.
+If you win you gain (d20)*Enemy's C in Credits.
+-----------------------------
+BUYING CARGO- (d20-T)*Units Bought
+SELLING CARGO- (d20+T)*Units Sold
+YOU MUST TRAVEL TO SELL CARGO. 
+---------------------------------------
+You can spend 500 credits for +2 points to assign to any attributes.
+---------------------------------------
+When all attributes =7 the game is "Won"
